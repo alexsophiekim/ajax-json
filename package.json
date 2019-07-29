@@ -1,0 +1,23 @@
+{
+  "name": "ajaxjson",
+  "version": "1.0.0",
+  "description": "This is a project which goes over ajax and json",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexsophiekim/ajax-json.git"
+  },
+  "keywords": [
+    "ajax",
+    "json"
+  ],
+  "author": "Sophie Kim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexsophiekim/ajax-json/issues"
+  },
+  "homepage": "https://github.com/alexsophiekim/ajax-json#readme"
+}
